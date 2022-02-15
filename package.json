@@ -1,5 +1,5 @@
 {
-   "name":"neoxr-bot",
+   "name":"Bot Wangsaf (Multi-Device)",
    "version":"1.0.0",
    "description":"Base WhatsApp Bot Multi Device",
    "main":"index.js",
@@ -17,7 +17,7 @@
    "keywords":[
       "wabot-md"
    ],
-   "author":"Wildan Izzudin",
+   "author":"lorddimas_",
    "license":"ISC",
    "dependencies":{
       "@adiwajshing/baileys": "github:adiwajshing/baileys#multi-device",

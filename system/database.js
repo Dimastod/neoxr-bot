@@ -112,7 +112,7 @@ module.exports = (m) => {
       if (!('multiprefix' in setting)) setting.multiprefix = true
       if (!('prefix' in setting)) setting.prefix = ['.', '/', '!', '#']
       if (!('onlyprefix' in setting)) setting.onlyprefix = '+'
-      if (!('owners' in setting)) setting.owners = ['6285887776722']
+      if (!('owners' in setting)) setting.owners = ['6281228345749']
       if (!('cover' in setting)) setting.cover = 'https://telegra.ph/file/b277cff79c78eba2d9661.jpg'
       if (!('header' in setting)) setting.header = 'JUST FOR FUN'
       if (!('msg' in setting)) setting.msg = 'I am a Whatsapp BOT, use a bot in private chat so that bots can respond quickly.'
@@ -134,7 +134,7 @@ module.exports = (m) => {
          multiprefix: true,
          prefix: ['.', '#', '!', '/'],
          onlyprefix: '+',
-         owners: ['6285887776722'],
+         owners: ['6281228345749'],
          cover: 'https://telegra.ph/file/b277cff79c78eba2d9661.jpg',
          header: 'JUST FOR FUN',
          msg: 'I am a Whatsapp BOT, use a bot in private chat so that bots can respond quickly.',
